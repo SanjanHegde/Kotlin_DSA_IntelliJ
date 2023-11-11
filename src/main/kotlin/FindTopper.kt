@@ -1,5 +1,4 @@
 /**
- * Question 2 (Medium Difficulty)
  * Given the list of student roll numbers and names
  * val students = listOf(Student(101, "Ramesh"), Student(102, "Seema"), Student(103, "Harry")
  *                       Student(104, "Ravi"), Student(104, "Varshini"), Student(105, "Deepa"))
@@ -8,8 +7,9 @@
  *  Marks(103, 39, 75, 83), Marks(104, 98, 94, 90),
  *  Marks(105, 51, 75, 83), Marks(106, 79, 96, 85)
  *  Print the name of the topper of this examination
- *
  *  This requires knowledge of kotlin scopes and collection frameworks to make the solution efficient.
+ *
+ *  Author: Sanjan Hegde
  */
 
 
