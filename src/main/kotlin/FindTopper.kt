@@ -8,7 +8,6 @@
  *  Marks(105, 51, 75, 83), Marks(106, 79, 96, 85)
  *  Print the name of the topper of this examination
  *  This requires knowledge of kotlin scopes and collection frameworks to make the solution efficient.
- *
  *  Author: Sanjan Hegde
  */
 

@@ -1,7 +1,6 @@
 /**
  * Print Reverse of a string without using any extension functions or loops
  * Solution: Use Recursion
- *
  * Author: Sanjan Hegde
  **/
 
