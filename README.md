@@ -1,7 +1,7 @@
 # Kotlin Datastructures and Algorithms
 The repository covers a wide range of topics including arrays, linked lists, stacks, queues, trees, sorting algorithms, searching algorithms, and dynamic programming.
 
-Overview
+**Overview** <br />
 **Data Structures** <br />
 Arrays <br />
 Hash Tables <br />
